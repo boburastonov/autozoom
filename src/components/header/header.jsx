@@ -125,7 +125,7 @@ const Header = () => {
               </Link>
             </li>
             <li className="py-[10px] ml-10">
-              <Link className="text-[15px] uppercase" to={"/about_us"}>
+              <Link className="text-[15px] uppercase" to={"/about"}>
                 About us
               </Link>
             </li>

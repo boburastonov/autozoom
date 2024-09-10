@@ -28,7 +28,7 @@ const Sidebar = ({ setOpen }) => {
           </Link>
         </li>
         <li className="py-[10px] ml-10">
-          <Link className="text-[18px] uppercase" to={"/about_us"}>
+          <Link className="text-[18px] uppercase" to={"/about"}>
             About us
           </Link>
         </li>
