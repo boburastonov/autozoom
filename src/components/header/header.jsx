@@ -102,7 +102,7 @@ const Header = () => {
                     <li key={brand?.id}>
                       <Link
                         className="flex items-center text-[15px] gap-x-3"
-                        to={`/brand/${brand?.id}`}
+                        to={`/cars/${brand?.id}`}
                       >
                         <img
                           className="w-14"
