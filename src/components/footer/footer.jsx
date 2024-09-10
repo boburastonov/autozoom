@@ -79,7 +79,7 @@ const Footer = () => {
                 >
                   CONTACTS
                 </a>
-                <span class="text-[14px] text-[#fff9]">
+                <span className="text-[14px] text-[#fff9]">
                   Elite 3 Sports City, <br /> Dubai 26W8 24J, United <br /> Arab
                   Emirates
                   <br />
@@ -93,7 +93,7 @@ const Footer = () => {
           <li className="px-3 flex flex-col md:mb-0 sm:mb-9 mb-6">
             <a
               className="text-[18px] uppercase hover:opacity-85"
-              href="/about_us"
+              href="/about"
             >
               ABOUT US
             </a>
