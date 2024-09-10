@@ -89,7 +89,7 @@ const Header = () => {
                 Brand
               </Link>
               <ul
-                className="dropdown hidden absolute top-14 -left-[200px] w-[700px] h-[89vh] overflow-y-auto grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-x-7 gap-y-7 bg-red-800 p-5 rounded-md [&::-webkit-scrollbar]:w-2
+                className="dropdown hidden absolute top-10 -left-[200px] w-[700px] h-[89vh] overflow-y-auto grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-x-7 gap-y-7 bg-red-800 p-5 rounded-md [&::-webkit-scrollbar]:w-2
   [&::-webkit-scrollbar-track]:rounded-full
   [&::-webkit-scrollbar-track]:bg-gray-100
   [&::-webkit-scrollbar-thumb]:rounded-full
