@@ -87,3 +87,11 @@ ul {
 .brand:hover .dropdown {
   display: grid;
 }
+
+/* About page */
+.about {
+  background-image: url("./assets/about-us-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
